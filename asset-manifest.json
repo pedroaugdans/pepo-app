@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pepo-app/static/css/main.f855e6bc.css",
+    "main.js": "/pepo-app/static/js/main.f580a106.js",
+    "static/js/787.f5e007ae.chunk.js": "/pepo-app/static/js/787.f5e007ae.chunk.js",
+    "static/media/logo.svg": "/pepo-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pepo-app/index.html",
+    "main.f855e6bc.css.map": "/pepo-app/static/css/main.f855e6bc.css.map",
+    "main.f580a106.js.map": "/pepo-app/static/js/main.f580a106.js.map",
+    "787.f5e007ae.chunk.js.map": "/pepo-app/static/js/787.f5e007ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f580a106.js"
+  ]
+}
